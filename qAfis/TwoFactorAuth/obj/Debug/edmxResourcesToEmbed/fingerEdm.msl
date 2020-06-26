@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="fingerprintidentificationsystemModelStoreContainer" CdmEntityContainer="fingerprintidentificationsystemEntities">
+    <EntitySetMapping Name="logs">
+      <EntityTypeMapping TypeName="fingerprintidentificationsystemModel.log">
+        <MappingFragment StoreEntitySet="log">
+          <ScalarProperty Name="logId" ColumnName="logId" />
+          <ScalarProperty Name="mortalId" ColumnName="mortalId" />
+          <ScalarProperty Name="dateTime_2" ColumnName="dateTime_2" />
+          <ScalarProperty Name="areaCode" ColumnName="areaCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mortals">
+      <EntityTypeMapping TypeName="fingerprintidentificationsystemModel.mortal">
+        <MappingFragment StoreEntitySet="mortal">
+          <ScalarProperty Name="mortalId" ColumnName="mortalId" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="nic" ColumnName="nic" />
+          <ScalarProperty Name="filename" ColumnName="filename" />
+          <ScalarProperty Name="template" ColumnName="template" />
+          <ScalarProperty Name="no_of_minutaes" ColumnName="no_of_minutaes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

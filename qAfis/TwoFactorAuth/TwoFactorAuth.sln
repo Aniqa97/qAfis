@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFactorAuth", "TwoFactorAuth.csproj", "{0CE61B20-7B54-4151-8D61-EB2825D9D2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFactorAuth.Tests", "..\TwoFactorAuth.Tests\TwoFactorAuth.Tests.csproj", "{4A8FC209-59F1-49B1-8969-3B0EB4C395DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE61B20-7B54-4151-8D61-EB2825D9D2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE61B20-7B54-4151-8D61-EB2825D9D2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE61B20-7B54-4151-8D61-EB2825D9D2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE61B20-7B54-4151-8D61-EB2825D9D2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8FC209-59F1-49B1-8969-3B0EB4C395DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8FC209-59F1-49B1-8969-3B0EB4C395DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8FC209-59F1-49B1-8969-3B0EB4C395DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8FC209-59F1-49B1-8969-3B0EB4C395DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4920674-1666-4923-BEAF-8309EC2EAC0C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+﻿@model TwoFactorAuth.log
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>log</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.dateTime_2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateTime_2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.areaCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.areaCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.mortal.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mortal.name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.logId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
