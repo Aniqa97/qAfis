@@ -1,0 +1,448 @@
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\TwoFactorAuth.dll.config
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\TwoFactorAuth.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\TwoFactorAuth.pdb
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Owin.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Optimization.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.WebPages.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Twilio.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\WebGrease.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Optimization.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.WebPages.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Twilio.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\TwoFactorAuth\obj\Debug\TwoFactorAuth.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\TwoFactorAuth\obj\Debug\TwoFactorAuth.csproj.CopyComplete
+C:\Users\Dell\Desktop\TwoFactorAuth\obj\Debug\TwoFactorAuth.dll
+C:\Users\Dell\Desktop\TwoFactorAuth\obj\Debug\TwoFactorAuth.pdb
+E:\qAfis\TwoFactorAuth\bin\TwoFactorAuth.dll.config
+E:\qAfis\TwoFactorAuth\bin\TwoFactorAuth.dll
+E:\qAfis\TwoFactorAuth\bin\TwoFactorAuth.pdb
+E:\qAfis\TwoFactorAuth\bin\roslyn\csc.exe
+E:\qAfis\TwoFactorAuth\bin\roslyn\csc.exe.config
+E:\qAfis\TwoFactorAuth\bin\roslyn\csc.rsp
+E:\qAfis\TwoFactorAuth\bin\roslyn\csi.exe
+E:\qAfis\TwoFactorAuth\bin\roslyn\csi.exe.config
+E:\qAfis\TwoFactorAuth\bin\roslyn\csi.rsp
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.Managed.Core.targets
+E:\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.AppContext.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Collections.Immutable.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Console.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Compression.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Pipes.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Reflection.Metadata.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Security.AccessControl.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Claims.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Principal.Windows.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.ValueTuple.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XmlDocument.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XPath.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\qAfis\TwoFactorAuth\bin\roslyn\vbc.exe
+E:\qAfis\TwoFactorAuth\bin\roslyn\vbc.exe.config
+E:\qAfis\TwoFactorAuth\bin\roslyn\vbc.rsp
+E:\qAfis\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe
+E:\qAfis\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe.config
+E:\qAfis\TwoFactorAuth\bin\Antlr3.Runtime.dll
+E:\qAfis\TwoFactorAuth\bin\EntityFramework.dll
+E:\qAfis\TwoFactorAuth\bin\EntityFramework.SqlServer.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Logging.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Web.Infrastructure.dll
+E:\qAfis\TwoFactorAuth\bin\Newtonsoft.Json.dll
+E:\qAfis\TwoFactorAuth\bin\Owin.dll
+E:\qAfis\TwoFactorAuth\bin\SourceAFIS.dll
+E:\qAfis\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\qAfis\TwoFactorAuth\bin\System.Web.Helpers.dll
+E:\qAfis\TwoFactorAuth\bin\System.Web.Mvc.dll
+E:\qAfis\TwoFactorAuth\bin\System.Web.Optimization.dll
+E:\qAfis\TwoFactorAuth\bin\System.Web.Razor.dll
+E:\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Deployment.dll
+E:\qAfis\TwoFactorAuth\bin\System.Web.WebPages.dll
+E:\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Razor.dll
+E:\qAfis\TwoFactorAuth\bin\Twilio.dll
+E:\qAfis\TwoFactorAuth\bin\WebGrease.dll
+E:\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.xml
+E:\qAfis\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\qAfis\TwoFactorAuth\bin\System.Web.Helpers.xml
+E:\qAfis\TwoFactorAuth\bin\System.Web.Mvc.xml
+E:\qAfis\TwoFactorAuth\bin\System.Web.Optimization.xml
+E:\qAfis\TwoFactorAuth\bin\System.Web.Razor.xml
+E:\qAfis\TwoFactorAuth\bin\System.Web.WebPages.xml
+E:\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Deployment.xml
+E:\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Razor.xml
+E:\qAfis\TwoFactorAuth\bin\Newtonsoft.Json.xml
+E:\qAfis\TwoFactorAuth\bin\Twilio.xml
+E:\qAfis\TwoFactorAuth\bin\Antlr3.Runtime.pdb
+E:\qAfis\TwoFactorAuth\bin\EntityFramework.xml
+E:\qAfis\TwoFactorAuth\bin\EntityFramework.SqlServer.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.xml
+E:\qAfis\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.csproj.CopyComplete
+E:\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.dll
+E:\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.pdb
+E:\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.csprojAssemblyReference.cache
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\TwoFactorAuth.dll.config
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\TwoFactorAuth.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\TwoFactorAuth.pdb
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csc.exe
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csc.exe.config
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csc.rsp
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csi.exe
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csi.exe.config
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csi.rsp
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.AppContext.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Console.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\vbc.exe
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\vbc.exe.config
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\vbc.rsp
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Antlr3.Runtime.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Newtonsoft.Json.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Owin.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\SourceAFIS.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Helpers.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Mvc.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Optimization.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Razor.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Twilio.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\WebGrease.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Helpers.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Mvc.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Optimization.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Razor.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Newtonsoft.Json.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Twilio.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Antlr3.Runtime.pdb
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.csprojAssemblyReference.cache
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.csproj.CoreCompileInputs.cache
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.csproj.CopyComplete
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.dll
+C:\Users\Aniqa Ahsan\Sem8\Kaavish 2\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.pdb
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\TwoFactorAuth.dll.config
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\TwoFactorAuth.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\TwoFactorAuth.pdb
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csc.exe
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csc.exe.config
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csc.rsp
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csi.exe
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csi.exe.config
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\csi.rsp
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.AppContext.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Collections.Immutable.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Console.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Compression.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.IO.Pipes.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.AccessControl.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Claims.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.ValueTuple.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XPath.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\vbc.exe
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\vbc.exe.config
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\vbc.rsp
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\roslyn\VBCSCompiler.exe.config
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Antlr3.Runtime.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.SqlServer.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Logging.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Web.Infrastructure.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Newtonsoft.Json.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Owin.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\SourceAFIS.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Helpers.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Mvc.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Optimization.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Razor.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Deployment.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Razor.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Twilio.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\WebGrease.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Helpers.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Mvc.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Optimization.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.Razor.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Deployment.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\System.Web.WebPages.Razor.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Newtonsoft.Json.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Twilio.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Antlr3.Runtime.pdb
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\EntityFramework.SqlServer.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Google.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.csprojAssemblyReference.cache
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.csproj.CopyComplete
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.dll
+E:\Kaavish\II\qAfis (1)\qAfis\qAfis\TwoFactorAuth\obj\Debug\TwoFactorAuth.pdb

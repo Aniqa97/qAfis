@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="fingerprintidentificationsystemModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="log">
+    <Key>
+      <PropertyRef Name="logId" />
+    </Key>
+    <Property Name="logId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="mortalId" Type="Int32" Nullable="false" />
+    <Property Name="dateTime_2" Type="DateTime" Precision="3" />
+    <Property Name="areaCode" Type="Int32" />
+    <NavigationProperty Name="mortal" Relationship="Self.FK__log__mortalId__286302EC" FromRole="log" ToRole="mortal" />
+  </EntityType>
+  <EntityType Name="mortal">
+    <Key>
+      <PropertyRef Name="mortalId" />
+    </Key>
+    <Property Name="mortalId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nic" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="filename" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="template" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="no_of_minutaes" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="logs" Relationship="Self.FK__log__mortalId__286302EC" FromRole="mortal" ToRole="log" />
+  </EntityType>
+  <Association Name="FK__log__mortalId__286302EC">
+    <End Role="mortal" Type="Self.mortal" Multiplicity="1" />
+    <End Role="log" Type="Self.log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mortal">
+        <PropertyRef Name="mortalId" />
+      </Principal>
+      <Dependent Role="log">
+        <PropertyRef Name="mortalId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="fingerprintidentificationsystemEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="logs" EntityType="Self.log" />
+    <EntitySet Name="mortals" EntityType="Self.mortal" />
+    <AssociationSet Name="FK__log__mortalId__286302EC" Association="Self.FK__log__mortalId__286302EC">
+      <End Role="mortal" EntitySet="mortals" />
+      <End Role="log" EntitySet="logs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

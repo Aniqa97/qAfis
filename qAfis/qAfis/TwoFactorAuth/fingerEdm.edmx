@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="fingerprintidentificationsystemModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="log">
+          <Key>
+            <PropertyRef Name="logId" />
+          </Key>
+          <Property Name="logId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="mortalId" Type="int" Nullable="false" />
+          <Property Name="dateTime_2" Type="datetime" />
+          <Property Name="areaCode" Type="int" />
+        </EntityType>
+        <EntityType Name="mortal">
+          <Key>
+            <PropertyRef Name="mortalId" />
+          </Key>
+          <Property Name="mortalId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="varchar(max)" Nullable="false" />
+          <Property Name="nic" Type="varchar(max)" Nullable="false" />
+          <Property Name="filename" Type="varchar(max)" Nullable="false" />
+          <Property Name="template" Type="varchar(max)" Nullable="false" />
+          <Property Name="no_of_minutaes" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__log__mortalId__3B75D760">
+          <End Role="mortal" Type="Self.mortal" Multiplicity="1" />
+          <End Role="log" Type="Self.log" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="mortal">
+              <PropertyRef Name="mortalId" />
+            </Principal>
+            <Dependent Role="log">
+              <PropertyRef Name="mortalId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="fingerprintidentificationsystemModelStoreContainer">
+          <EntitySet Name="log" EntityType="Self.log" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="mortal" EntityType="Self.mortal" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__log__mortalId__3B75D760" Association="Self.FK__log__mortalId__3B75D760">
+            <End Role="mortal" EntitySet="mortal" />
+            <End Role="log" EntitySet="log" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="fingerprintidentificationsystemModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="log">
+          <Key>
+            <PropertyRef Name="logId" />
+          </Key>
+          <Property Name="logId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="mortalId" Type="Int32" Nullable="false" />
+          <Property Name="dateTime_2" Type="DateTime" Precision="3" />
+          <Property Name="areaCode" Type="Int32" />
+          <NavigationProperty Name="mortal" Relationship="Self.FK__log__mortalId__286302EC" FromRole="log" ToRole="mortal" />
+        </EntityType>
+        <EntityType Name="mortal">
+          <Key>
+            <PropertyRef Name="mortalId" />
+          </Key>
+          <Property Name="mortalId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="nic" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="filename" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="template" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="no_of_minutaes" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="logs" Relationship="Self.FK__log__mortalId__286302EC" FromRole="mortal" ToRole="log" />
+        </EntityType>
+        <Association Name="FK__log__mortalId__286302EC">
+          <End Role="mortal" Type="Self.mortal" Multiplicity="1" />
+          <End Role="log" Type="Self.log" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="mortal">
+              <PropertyRef Name="mortalId" />
+            </Principal>
+            <Dependent Role="log">
+              <PropertyRef Name="mortalId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="fingerprintidentificationsystemEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="logs" EntityType="Self.log" />
+          <EntitySet Name="mortals" EntityType="Self.mortal" />
+          <AssociationSet Name="FK__log__mortalId__286302EC" Association="Self.FK__log__mortalId__286302EC">
+            <End Role="mortal" EntitySet="mortals" />
+            <End Role="log" EntitySet="logs" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="fingerprintidentificationsystemModelStoreContainer" CdmEntityContainer="fingerprintidentificationsystemEntities">
+          <EntitySetMapping Name="logs">
+            <EntityTypeMapping TypeName="fingerprintidentificationsystemModel.log">
+              <MappingFragment StoreEntitySet="log">
+                <ScalarProperty Name="logId" ColumnName="logId" />
+                <ScalarProperty Name="mortalId" ColumnName="mortalId" />
+                <ScalarProperty Name="dateTime_2" ColumnName="dateTime_2" />
+                <ScalarProperty Name="areaCode" ColumnName="areaCode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="mortals">
+            <EntityTypeMapping TypeName="fingerprintidentificationsystemModel.mortal">
+              <MappingFragment StoreEntitySet="mortal">
+                <ScalarProperty Name="mortalId" ColumnName="mortalId" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="nic" ColumnName="nic" />
+                <ScalarProperty Name="filename" ColumnName="filename" />
+                <ScalarProperty Name="template" ColumnName="template" />
+                <ScalarProperty Name="no_of_minutaes" ColumnName="no_of_minutaes" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

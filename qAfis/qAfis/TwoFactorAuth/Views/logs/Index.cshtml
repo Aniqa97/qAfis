@@ -1,0 +1,124 @@
+﻿@model IEnumerable<TwoFactorAuth.log>
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>qAfis - Tagline </title>
+
+	<!-- Font Awesome Icons -->
+	<link href="~/Content/startbootstrap-creative-gh-pages (1)/startbootstrap-creative-gh-pages/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+	<!-- Plugin CSS -->
+	<link href="~/Content/startbootstrap-creative-gh-pages (1)/startbootstrap-creative-gh-pages/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+	<!-- Theme CSS - Includes Bootstrap -->
+	<link href="~/Content/startbootstrap-creative-gh-pages (1)/startbootstrap-creative-gh-pages/css/creative.min.css" rel="stylesheet">
+
+</head>
+
+
+
+<nav class="navbar navbar-expand-lg navbar-inverse fixed-top py-3 bg-dark" id="mainNav">
+	<div class="container">
+		<a class="navbar-brand js-scroll-trigger" href="~/Home/Index#about">qAfis</a>
+		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto my-2 my-lg-0">
+				<li class="nav-item">
+					<a class="nav-link js-scroll-trigger" href="~/Home/Index">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link js-scroll-trigger" href="~/Home/Index">Services</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link js-scroll-trigger" href="~/Home/Index">Team</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link js-scroll-trigger" href="~/Home/Index">Contact</a>
+				</li>
+				@Html.Partial("_LoginPartial")
+			</ul>
+		</div>
+	</div>
+</nav>
+
+
+
+<section class="page-section bg-light">
+	<div class="container">
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md">
+
+					<p>
+
+						<a class="btn btn-primary btn-xl js-scroll-trigger" href="~/logs/Create">Create New</a>
+					</p>
+				</div>
+				@*<div class="col-md">
+					<p>
+						<a class="btn btn-primary btn-xl js-scroll-trigger" href="~/logs/Delete">Delete</a>
+
+					</p>
+				</div>*@
+				@*<div class="col-md">
+					<p>
+						<a class="btn btn-primary btn-xl js-scroll-trigger" href="~/People/Match">Match</a>
+
+					</p>
+				</div>*@
+			</div>
+			<table class="table">
+				<tr>
+					<th>
+						@Html.DisplayNameFor(model => model.dateTime_2)
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.areaCode)
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.mortal.name)
+					</th>
+					<th></th>
+				</tr>
+
+				@foreach (var item in Model)
+				{
+					<tr>
+						<td>
+							@Html.DisplayFor(modelItem => item.dateTime_2)
+						</td>
+						<td>
+							@Html.DisplayFor(modelItem => item.areaCode)
+						</td>
+						<td>
+							@Html.DisplayFor(modelItem => item.mortal.name)
+						</td>
+						<td>
+							@Html.ActionLink("Edit", "Edit", new { id = item.logId }) |
+							@Html.ActionLink("Details", "Details", new { id = item.logId }) |
+							@Html.ActionLink("Delete", "Delete", new { id = item.logId })
+						</td>
+					</tr>
+				}
+
+			</table>
+		</div>
+	</div>
+</section>
